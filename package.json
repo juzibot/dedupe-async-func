@@ -1,0 +1,26 @@
+{
+  "name": "dedupe-async-func",
+  "version": "1.0.0",
+  "description": "Dedupe async function calls to reduce system workload and network traffic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juzibot/dedupe-async-func.git"
+  },
+  "keywords": [
+    "dedupe"
+  ],
+  "author": "windmemory",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/juzibot/dedupe-async-func/issues"
+  },
+  "homepage": "https://github.com/juzibot/dedupe-async-func#readme",
+  "devDependencies": {
+    "@chatie/tsconfig": "^0.6.1",
+    "@types/node": "^13.1.0"
+  }
+}
