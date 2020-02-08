@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/juzibot/dedupe-async-func#readme",
   "devDependencies": {
-    "@chatie/tsconfig": "^0.6.1",
+    "@chatie/tsconfig": "^0.8.0",
     "@types/node": "^13.1.0"
   }
 }
