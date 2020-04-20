@@ -21,6 +21,6 @@
   "homepage": "https://github.com/juzibot/dedupe-async-func#readme",
   "devDependencies": {
     "@chatie/tsconfig": "^0.6.1",
-    "@types/node": "^13.1.0"
+    "@types/node": "^13.13.1"
   }
 }
